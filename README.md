@@ -50,7 +50,7 @@ com.anton.custom_annotation
 1. Clone the repo:
    ```bash
    git clone https://github.com/NadeeshanFernando/custom-annotation.git
-   cd custom-logger-springboot
+   cd custom-annotation
    ```
 
 2. Import as a **Maven project** into IntelliJ or any IDE.
