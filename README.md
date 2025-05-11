@@ -49,7 +49,7 @@ com.anton.custom_annotation
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/custom-logger-springboot.git
+   git clone https://github.com/NadeeshanFernando/custom-annotation.git
    cd custom-logger-springboot
    ```
 
@@ -185,4 +185,4 @@ This project is open source. Feel free to modify and use it in your own projects
 
 ## 🙋‍♂️ Author
 
-Developed by [Your Name / GitHub](https://github.com/yourusername)
+Developed by https://github.com/NadeeshanFernando
